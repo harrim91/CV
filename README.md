@@ -1,8 +1,6 @@
 # Michael Harrison
 Junior Web Developer & Makers Academy Graduate with a background in QA, Mathematics & Philosophy.
 
-[![Build Status](https://travis-ci.org/harrim91/CV.svg?branch=master)](https://travis-ci.org/harrim91/CV)
-
 I *LOVE* solving problems, and I love making things. I have a demonstrable desire to learn, to push myself towards best practices, and to write the best, cleanest, most throughly tested code I possibly can.
 
 I'm now looking for my first role as a developer in a company which has similar commitments to me. I care about craftsmanship, and I want to work with craftsmen who will challenge me and facilitate my learning.
@@ -17,7 +15,7 @@ My undergrad and postgrad studies in Mathematics and Philosophy have shaped the 
 I spent almost 2 years working as a QA Analyst, manually writing and executing feature and regression tests on a monolithic system. This has given me a real commitment to well tested, well written code.
 
 #### I want do things the right way
-I learned so much in my QA role and it inspired me to become a developer. I was offered a job as a junior visual basic developer at the company, but turned it down in order to attend Makers Academy and get a grounding in doing OOP, agile TDD properly.
+I learned so much in my QA role and it inspired me to become a developer. I was offered a job as a junior visual basic developer at the company, but turned it down in order to attend Makers Academy and get a grounding in doing OOP and Agile TDD properly.
 
 
 Code Examples
@@ -52,7 +50,7 @@ Education
 - Postgraduate Certificate in Philosophy
 - Pass (68%)
 - Political Philosophy, with a particular interests in Nationality, Citizenship and Multiculturalism and Distributive Justice.
-- Part time study whilst working full time 
+- Part time study whilst working full time.
 
 #### University of York (October 2009-July 2012)
 
