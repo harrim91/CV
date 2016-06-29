@@ -1,4 +1,5 @@
 # Michael Harrison
+
 Junior Web Developer & Makers Academy Graduate with a background in QA, Mathematics & Philosophy.
 
 I love solving problems, and I love making things. I have a demonstrable desire to learn, to push myself towards best practices, and to write the best, cleanest, most throughly tested code I possibly can.
