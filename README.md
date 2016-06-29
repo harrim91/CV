@@ -79,7 +79,7 @@ Apart from code, I also love making things out of wood, playing guitar, going fo
 
 ## Product Reviews
 
-`I've never met anybody like Michael. He is so unique. At first you just see like a pinprick, but when you get to know him he opens up and has so much more depth.`
+`I've never met anybody like Michael. He is unique. At first you just see like a pinprick, but when you get to know him he opens up and has so much more depth.`
 
 `Michael is very, very, very intelligent and is a problem solver. He is always willing to take the time to explain things and is a good teacher.`
 
