@@ -1,4 +1,5 @@
 # Michael Harrison
+[Email](mailto:harrim91@hotmail.co.uk) | [LinkedIn](https://uk.linkedin.com/in/mharrison3) | [Twitter](http://www.twitter.com/mikeh91)
 
 Junior Web Developer & Makers Academy Graduate with a background in QA, Mathematics & Philosophy.
 
@@ -57,27 +58,30 @@ Education
 
 - BSc Mathematics & Philosophy
 - Third Class Honours
-- Did lots of other cool stuff, like facilitating live music on campus, and organizing hitch hikes accross Europe for charity.
+- Did lots of other cool stuff, like facilitating live music on campus, and organizing charity hitch hikes across Europe.
 
 ## Experience
 
-**Intuitive** (August 2014- March 2016)
+**Intuitive** (August 2014-March 2016)
 *QA Analyst*
 
-**Link Community Development** (March 2014- May 2014)
+**Link Community Development** (March 2014-May 2014)
 *Fundraising Assistant*
 
-**Global Lingo** (January 2014- September 2014)
+**Global Lingo** (January 2014-September 2014)
 *Freelance Audio Transcriber*
 
-**Sainsbury's Local** (August 2012- December 2014)
+**Sainsbury's Local** (August 2012-December 2014)
 *Team Leader*
+
+**Zimbabwe Educational Trust** (August 2012-December 2014)
+*General Assistant (Volunteer Role)*
 
 ## Interests
 
 Apart from code, I also love making things out of wood, playing guitar, going for long walks, and practicing yoga.
 
-## Product Reviews
+## Product Reviews from Pair Partners
 
 `I've never met anybody like Michael. He is unique. At first you just see like a pinprick, but when you get to know him he opens up and has so much more depth.`
 
