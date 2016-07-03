@@ -63,8 +63,7 @@ Education
 ## Experience
 
 **Intuitive** (August 2014-March 2016)
-
-*QA Analyst*
+- *QA Analyst*
 
 **Link Community Development** (March 2014-May 2014)
 
