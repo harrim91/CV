@@ -62,20 +62,15 @@ Education
 
 ## Experience
 
-**Intuitive** (August 2014-March 2016)
-*QA Analyst*
+**Intuitive** (Aug 2014-Mar 2016) - *QA Analyst*
 
-**Link Community Development** (March 2014-May 2014)
-*Fundraising Assistant*
+**Link Community Development** (Mar 2014-May 2014) - *Fundraising Assistant*
 
-**Global Lingo** (January 2014-September 2014)
-*Freelance Audio Transcriber*
+**Global Lingo** (Jan 2014-Sept 2014) - *Freelance Audio Transcriber*
 
-**Sainsbury's Local** (August 2012-December 2014)
-*Team Leader*
+**Sainsbury's Local** (Aug 2012-Dec 2014) - *Team Leader*
 
-**Zimbabwe Educational Trust** (August 2012-December 2014)
-*General Assistant (Volunteer Role)*
+**Zimbabwe Educational Trust** (Aug 2012-Dec 2014) - *General Assistant (Volunteer Role)*
 
 ## Interests
 
