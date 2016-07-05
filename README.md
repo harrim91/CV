@@ -17,7 +17,7 @@ My undergrad and postgrad studies in Mathematics and Philosophy have shaped the 
 I spent almost 2 years working as a QA Analyst, manually writing and executing feature and regression tests on a monolithic system. This has given me a real commitment to well tested, well written code.
 
 #### I want do things the right way
-I learned so much in my QA role and it inspired me to become a developer. I was offered a job as a junior visual basic developer at the company, but turned it down in order to attend Makers Academy and get a grounding in doing OOP and Agile TDD properly.
+I learned so much in my QA role and it inspired me to become a developer. I was offered a job as a junior Visual Basic developer at the company, but turned it down in order to attend Makers Academy and get the best grounding in OOP and Agile TDD possible.
 
 
 Code Examples
@@ -43,8 +43,8 @@ Education
 - Fuelled my passion for beautiful code
 - Improved independent learning skills
 - OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Angular.js
+- Software Craftsmanship & XP
+- Ruby, Rails, Javascript, Angular.js, Ionic
 - RSpec, Capybara, Jasmine, Karma, Protractor
 
 #### Open University (January 2013-October 2015)
