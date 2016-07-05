@@ -51,13 +51,13 @@ Education
 
 - Postgraduate Certificate in Philosophy
 - Pass (68%)
-- Political Philosophy, with a particular interests in Nationality, Citizenship and Multiculturalism and Distributive Justice.
+- Political Philosophy, with particular interests in Nationality, Citizenship and Multiculturalism and Distributive Justice.
 - Part time study whilst working full time.
 
 #### University of York (October 2009-July 2012)
 
 - BSc Mathematics & Philosophy
-- Third Class Honours
+- Third-Class Honours
 - Did lots of other cool stuff, like facilitating live music on campus, and organizing charity hitch hikes across Europe.
 
 ## Experience
