@@ -30,7 +30,7 @@ Built in less than two weeks using Ionic/Angular. The app has a [decoupled rails
 #### [rails_cleaner](http://www.github.com/harrim91/rails_cleaner)
 Ruby Gem with command line executables that deletes all of those annoying unused auto-generated coffee/scss files from your rails projects.
 
-Pure Ruby, built in a week as a group project at Makers.
+Pure Ruby, built in a week as a group project at Makers. Available on [RubyGems](https://rubygems.org/gems/rails_cleaner)
 
 #### [Instascam](http://www.github.com/harrim91/instagram_challenge)
 Instagram Clone built using Rails in a weekend. The website is available on [Heroku](https://limitless-cliffs-63599.herokuapp.com/). (Please excuse the Comic Sans...)
@@ -44,7 +44,7 @@ Education
 - Improved independent learning skills
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship & XP
-- Ruby, Rails, Javascript, Angular.js, Ionic
+- Ruby, Rails, Sinatra, JavaScript, Angular.js, Ionic
 - RSpec, Capybara, Jasmine, Karma, Protractor
 
 #### Open University (January 2013-October 2013)
@@ -52,7 +52,7 @@ Education
 - Postgraduate Certificate in Philosophy
 - Pass (68%)
 - Political Philosophy, with particular interests in Nationality, Citizenship and Multiculturalism and Distributive Justice.
-- Part time study whilst working full time.
+- Part-time study whilst working full-time.
 
 #### University of York (October 2009-July 2012)
 
