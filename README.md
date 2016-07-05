@@ -3,7 +3,7 @@
 
 Junior Web Developer & Makers Academy Graduate with a background in QA, Mathematics & Philosophy.
 
-I love solving problems, and I love making things. I have a demonstrable desire to learn, to push myself towards best practices, and to write the best, cleanest, most throughly tested code I possibly can.
+I love solving problems, and I love making things. I have a demonstrable desire to learn, to push myself towards best practices, and to write the best, cleanest, most thoroughly tested code I possibly can.
 
 I'm now looking for my first role as a developer in a company which has similar commitments to me. I care about craftsmanship, and I want to work with craftsmen who will challenge me and facilitate my learning.
 
