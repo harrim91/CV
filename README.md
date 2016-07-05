@@ -82,6 +82,6 @@ Apart from code, I also love making things out of wood, playing guitar, going fo
 
 `Michael is very, very, very intelligent and is a problem solver. He is always willing to take the time to explain things and is a good teacher.`
 
-`He has crazy concentration. When working on a problem, he is so focussed and driven until he achieves his goal.`
+`He has crazy concentration. When working on a problem, he is so focused and driven until he achieves his goal.`
 
 `There is a romantic intensity to everything he does, from coding, to playing guitar, to talking about his girlfriend or wooden spoons.`
