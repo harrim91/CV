@@ -47,7 +47,7 @@ Education
 - Ruby, Rails, Javascript, Angular.js, Ionic
 - RSpec, Capybara, Jasmine, Karma, Protractor
 
-#### Open University (January 2013-October 2015)
+#### Open University (January 2013-October 2013)
 
 - Postgraduate Certificate in Philosophy
 - Pass (68%)
