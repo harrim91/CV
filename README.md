@@ -1,5 +1,5 @@
 # Michael Harrison
-[Email](mailto:harrim91@hotmail.co.uk) | [LinkedIn](https://uk.linkedin.com/in/mharrison3) | [Twitter](http://www.twitter.com/mikeh91)
+[Email](mailto:harrim91@hotmail.co.uk) | [LinkedIn](https://uk.linkedin.com/in/mharrison3) | [Twitter](http://www.twitter.com/mikeh91) | [Blog](http://michaelharrison.party)
 
 Junior Web Developer & Makers Academy Graduate with a background in QA, Mathematics & Philosophy.
 
