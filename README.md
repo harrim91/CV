@@ -1,7 +1,7 @@
 # Michael Harrison
 [Email](mailto:harrim91@hotmail.co.uk) | [LinkedIn](https://uk.linkedin.com/in/mharrison3) | [Twitter](http://www.twitter.com/mikeh91) | [Blog](http://michaelharrison.party)
 
-Junior Web Developer & Makers Academy Graduate with a background in QA, Mathematics & Philosophy.
+Junior Web Developer & Makers Academy Graduate with a background in QA, Mathematics & Philosophy. I know Ruby and am falling more and more in love with JavaScript. I am currently teaching myself to use the MEAN stack from the ground up, and am also looking into NoSQL databases and microservices.
 
 I love solving problems, and I love making things. I have a demonstrable desire to learn, to push myself towards best practices, and to write the best, cleanest, most thoroughly tested code I possibly can.
 
