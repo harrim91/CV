@@ -1,7 +1,7 @@
 # Michael Harrison
 [Email](mailto:harrim91@hotmail.co.uk) | [LinkedIn](https://uk.linkedin.com/in/mharrison3) | [Twitter](http://www.twitter.com/mikeh91) | [Blog](http://michaelharrison.party)
 
-Junior Web Developer & Makers Academy Graduate with a background in QA, Mathematics & Philosophy. I know Ruby and am falling more and more in love with JavaScript. I am currently teaching myself to use the MEAN stack from the ground up, and am also looking into NoSQL databases and microservices.
+Web Developer with a background in QA, Mathematics & Philosophy.
 
 I love solving problems, and I love making things. I have a demonstrable desire to learn, to push myself towards best practices, and to write the best, cleanest, most thoroughly tested code I possibly can.
 
@@ -9,6 +9,8 @@ I'm now looking for my first role as a developer in a company which has similar 
 
 Skills
 ---
+#### Quick Learner
+In 12 weeks I have built a working proficiency in Ruby and JavaScript, and frameworks such as Angular and Rails. Much of this learning has been self-led – I am confident in my abilities and getting stuck doesn’t phase me.
 
 #### Analytic
 My undergrad and postgrad studies in Mathematics and Philosophy have shaped the way I think and given me a strong ability to break problems down and to understand and use complex ideas. 
@@ -16,23 +18,19 @@ My undergrad and postgrad studies in Mathematics and Philosophy have shaped the 
 #### Testing
 I spent almost 2 years working as a QA Analyst, manually writing and executing feature and regression tests on a monolithic system. This has given me a real commitment to well tested, well written code.
 
-#### I want do things the right way
-I learned so much in my QA role and it inspired me to become a developer. I was offered a job as a junior Visual Basic developer at the company, but turned it down in order to attend Makers Academy and get the best grounding in OOP and Agile TDD possible.
-
-
-Code Examples
+Projects
 ---
 #### [Happy Belly](http://www.github.com/harrim91/allergy_scanner_frontend)
 Mobile app that allows the user to select a diet profile (e.g. nut allergy, lactose intolerance), and then scan the barcode on a food product to see if they can eat it.
 
 Built in less than two weeks using Ionic/Angular. The app has a [decoupled rails-api backend](http://www.github.com/harrim91/allergy_scanner_backend)
 
-#### [rails_cleaner](http://www.github.com/harrim91/rails_cleaner)
+#### [Rails Cleaner](http://www.github.com/harrim91/rails_cleaner)
 Ruby Gem with command line executables that deletes all of those annoying unused auto-generated coffee/scss files from your rails projects.
 
 Pure Ruby, built in a week as a group project at Makers. Available on [RubyGems](https://rubygems.org/gems/rails_cleaner)
 
-#### [Instascam](http://www.github.com/harrim91/instagram_challenge)
+#### [Instagram Clone](http://www.github.com/harrim91/instagram_challenge)
 Instagram Clone built using Rails in a weekend. The website is available on [Heroku](https://limitless-cliffs-63599.herokuapp.com/). (Please excuse the Comic Sans...)
 
 Education
@@ -40,8 +38,6 @@ Education
 
 #### Makers Academy (April-June 2016)
 
-- Fuelled my passion for beautiful code
-- Improved independent learning skills
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship & XP
 - Ruby, Rails, Sinatra, JavaScript, Angular.js, Ionic
@@ -74,7 +70,10 @@ Education
 
 ## Interests
 
-Apart from code, I also love making things out of wood, playing guitar, going for long walks, and practicing yoga.
+- Making things out of wood
+- Playing guitar
+- Going for long walks
+- Practicing yoga
 
 ## Product Reviews from Pair Partners
 
