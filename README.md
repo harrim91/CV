@@ -1,7 +1,7 @@
 # Michael Harrison
 [Email](mailto:harrim91@hotmail.co.uk) | [LinkedIn](https://uk.linkedin.com/in/mharrison3) | [Twitter](http://www.twitter.com/mikeh91) | [Blog](http://michaelharrison.party)
 
-Web Developer with a background in QA, Mathematics & Philosophy.
+Web Developer with a background in QA, Mathematics & Philosophy. Ruby and JS, including Rails and Angular. Currently teaching myself Node.
 
 I love solving problems, and I love making things. I have a demonstrable desire to learn, to push myself towards best practices, and to write the best, cleanest, most thoroughly tested code I possibly can.
 
