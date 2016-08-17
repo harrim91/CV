@@ -1,5 +1,5 @@
 # Michael Harrison
-[Email](mailto:harrim91@hotmail.co.uk) | [LinkedIn](https://uk.linkedin.com/in/mharrison3) | [Twitter](http://www.twitter.com/mikeh91) | [Blog](http://michaelharrison.party)
+[Twitter](http://www.twitter.com/mikeh91) | [Blog](http://michaelharrison.party)
 
 Web Developer with a background in QA, Mathematics & Philosophy. Ruby and JS, including Rails and Angular. Currently teaching myself Node.
 
