@@ -1,9 +1,11 @@
 # Michael Harrison
 [Twitter](http://www.twitter.com/mikeh91) | [Blog](http://michaelharrison.party)
 
-Web Developer with a background in QA, Mathematics & Philosophy. Ruby and JS, including Rails and Angular. Currently teaching myself Node and React. ES2015 woop.
+Web Developer with a background in QA, Mathematics & Philosophy. I know Ruby and JS, including Rails and Angular. Currently teaching myself Node and React.
 
-I love solving problems, and I love making things. I have a demonstrable desire to learn, to push myself towards best practices, and to write the best, cleanest, most thoroughly tested code I possibly can.
+I love solving problems, I love understanding how systems work, and I love making things. I make wooden things in my spare time, and my favourite place is the clock exhibit at the British Museum.
+
+I have a demonstrable desire to learn, to push myself towards best practices, and to write the best, cleanest, most thoroughly tested code I possibly can.
 
 I'm now looking for my first role as a developer in a company which has similar commitments to me. I care about craftsmanship, and I want to work with craftsmen who will challenge me and facilitate my learning.
 
@@ -47,7 +49,7 @@ Education
 
 - Postgraduate Certificate in Philosophy
 - Pass (68%)
-- Political Philosophy, with particular interests in Nationality, Citizenship and Multiculturalism and Distributive Justice.
+- Political Philosophy, with particular interests in Nationality, Citizenship & Multiculturalism, and Distributive Justice.
 - Part-time study whilst working full-time.
 
 #### University of York (October 2009-July 2012)
