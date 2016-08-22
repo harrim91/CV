@@ -3,7 +3,7 @@
 
 Web Developer with a background in QA, Mathematics & Philosophy. I know Ruby and JS, including Rails and Angular. Currently teaching myself Node and React.
 
-I love solving problems, I love understanding how systems work, and I love making things. I make wooden things in my spare time, and my favourite place is the clock exhibit at the British Museum.
+I love solving problems, I love understanding how systems work, and I love making things. I make music and wooden spoons in my spare time, and my favourite place is the clock exhibit at the British Museum.
 
 I have a demonstrable desire to learn, to push myself towards best practices, and to write the best, cleanest, most thoroughly tested code I possibly can.
 
