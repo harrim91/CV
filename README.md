@@ -7,7 +7,9 @@ I love solving problems, I love understanding how systems work, and I love makin
 
 I have a demonstrable desire to learn, to push myself towards best practices, and to write the best, cleanest, most thoroughly tested code I possibly can.
 
-I'm now looking for my first role as a developer in a company which has similar commitments to me. I care about craftsmanship, and I want to work with craftsmen who will challenge me and facilitate my learning.
+I like to share my knowledge too. I really love pair-programming. I'm becoming a regular tutor at [codebar](http://codebar.io). And I'm even writing my first ever tutorial on my blog. 
+
+I'm now looking for my first role as a developer in a company which has similar commitments to me. I care about craftsmanship, and I want to work with craftsmen who will challenge me and facilitate my learning. If your company wants to make a positive impact on society, that's a bonus too.
 
 Skills
 ---
