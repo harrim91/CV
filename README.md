@@ -1,7 +1,7 @@
 # Michael Harrison
 [Twitter](http://www.twitter.com/mikeh91) | [Blog](http://michaelharrison.party)
 
-Web Developer with a background in QA, Mathematics & Philosophy. I know Ruby and JS, including Rails and Angular. Currently teaching myself Node and React.
+Web Developer with a background in QA. I know Ruby and JS, including Rails and Angular. Currently teaching myself Node and React.
 
 I love solving problems, I love understanding how systems work, and I love making things - not just coding, I also make music and wooden spoons in my spare time. I really want to make a clock too.
 
