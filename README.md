@@ -1,11 +1,11 @@
 # Michael Harrison
-[Twitter](http://www.twitter.com/mikeh91) | [Blog](http://michaelharrison.party)
+[Twitter](http://www.twitter.com/mikeh91) | [Website](http://michaelharrison.party) | [Blog](http://michaelharrison.party/blog)
 
 Web Developer with a background in QA. I know Ruby and JS, including Rails and Angular. Currently teaching myself Node and React.
 
 I love solving problems, I love understanding how systems work, and I love making things - not just coding, I also make music and wooden spoons in my spare time. I really want to make a clock too.
 
-I have a demonstrable desire to learn, to push myself towards best practices, and to write the best, cleanest, most thoroughly tested code I possibly can.
+I have a demonstrable desire to learn, to push myself towards best practices, and to write the best, cleanest, most thoroughly tested code I possibly can - I chose to go to Makers after being offered a job as a junior developer in my previous company, where I felt my education and working standards wouldn't have been to the level I personally want to attain.
 
 I'm now looking for my first role as a developer in a company which has similar commitments to me. I care about craftsmanship, and I want to work with craftsmen who will challenge me and facilitate my learning. If your company wants to make a positive impact on society, that's a bonus too.
 
@@ -36,16 +36,16 @@ Ruby Gem with command line executables that deletes all of those annoying unused
 Pure Ruby, built in a week as a group project at Makers. Available on [RubyGems](https://rubygems.org/gems/rails_cleaner)
 
 #### [Instagram Clone](http://www.github.com/harrim91/instagram_challenge)
-Instagram Clone built using Rails in a weekend. The website is available on [Heroku](https://limitless-cliffs-63599.herokuapp.com/). (Please excuse the Comic Sans...)
+Instagram Clone built using Rails in a weekend. The website is available on [Heroku](https://limitless-cliffs-63599.herokuapp.com/).
 
 Education
 ---
 
 #### Makers Academy (April-June 2016)
 
-- OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship & XP
-- Ruby, Rails, Sinatra, JavaScript, Angular.js, Ionic
+- OOP, TDD, SOLID, MVC, DDD
+- Ruby, Rails, Sinatra, JavaScript, AngularJS, Ionic, Cordova, PostgreSQL
 - RSpec, Capybara, Jasmine, Karma, Protractor
 
 #### Open University (January 2013-October 2013)
