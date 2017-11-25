@@ -14,7 +14,7 @@ Skills
 
 Here is a non-exhaustive list of technologies I have used professionally, listed alphabetically.
 
-`Amazon Alexa` `AngularJS` `AWS` `Babel` `Bespoken SDK` `Bootstrap` `Codeception` `d3` `Expo` `Express` `Git` `Gulp` `Grunt` `JavaScript` `Jest` `jQuery` `Laravel` `Mocha` `MongoDB` `MySQL` `Node` `PhantomJS` `PHP` `PHPUnit` `Python` `React` `React Native` `Redux` `Resonance Audio` `RSpec` `Ruby` `socket.io` `Vagrant` `Web Audio` `Webpack` `Wordpress` 
+`Amazon Alexa` `AngularJS` `AWS` `Babel` `Bespoken SDK` `Bootstrap` `Codeception` `d3` `Expo` `Express` `Git` `Gulp` `Grunt` `JavaScript` `Jest` `jQuery` `Laravel` `Mocha` `MongoDB` `MySQL` `Node` `PhantomJS` `PHP` `PHPUnit` `Python` `React` `React Native` `Redux` `Resonance Audio` `socket.io` `Vagrant` `Web Audio` `Webpack` `Wordpress` 
 
 #### Quick Learner :running_man:
 I learned to code in 12 weeks at Makers Academy. At magneticNorth I have worked on a wide variety of projects that have involved completely new technologies to me, such as React, Redux, d3, web-audio, and always picked them up and contributed towards a high-quality product. I am confident in my abilities and getting stuck doesn’t phase me. I love a challenge.
