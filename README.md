@@ -1,47 +1,56 @@
 # Michael Harrison
-[Twitter](http://www.twitter.com/mikeh91) | [Website](http://michaelharrison.party) | [Blog](http://michaelharrison.party/blog)
+[Twitter](http://www.twitter.com/mikeh91) | [Website](http://michaelharrison.party) | [Blog](https://medium.com/@mikeh91)
 
-Web Developer with a background in QA. I know Ruby and JS, including Rails and Angular. Currently teaching myself Node and React.
+Software Developer with a background in QA/Testing. I primarily work in JavaScript.
 
-I love solving problems, I love understanding how systems work, and I love making things - not just coding, I also make music and wooden spoons in my spare time. I really want to make a clock too.
+I currently work at magneticNorth, a Manchester based digital agency, where I have helped to solve some really cool problems for some cool organisations, such creating [a dashboard to explore and visualise the complete history of the British film industry](https://filmography.bfi.org.uk) for the BFI, and creating a prototype audio-only game for visually impaired people for the BBC.
 
-I have a demonstrable desire to learn, to push myself towards best practices, and to write the best, cleanest, most thoroughly tested code I possibly can - I chose to go to Makers after being offered a job as a junior developer in my previous company, where I felt my education and working standards wouldn't have been to the level I personally want to attain.
+I love solving problems, I love understanding how systems work, and I love making things - not just coding, I also make music and wooden spoons in my spare time. I really want to make a clock too. 
 
-I'm now looking for my first role as a developer in a company which has similar commitments to me. I care about craftsmanship, and I want to work with craftsmen who will challenge me and facilitate my learning. If your company wants to make a positive impact on society, that's a bonus too.
+I want to work in a company which has similar commitments to me. I care about craftsmanship, and I want to work with developers who will challenge me and facilitate my learning. If your company wants to make a positive impact on society, that's a bonus too.
 
 Skills
 ---
-#### Quick Learner
-In 12 weeks I have built a working proficiency in Ruby and JavaScript, and frameworks such as Angular and Rails. Much of this learning has been self-led – I am confident in my abilities and getting stuck doesn’t phase me.
 
-#### Analytic
+Here is a non-exhaustive list of technologies I have used professionally, listed alphabetically.
+
+`Amazon Alexa` `AngularJS` `AWS` `Babel` `Bespoken SDK` `Bootstrap` `Codeception` `d3` `Expo` `Express` `Git` `Gulp` `Grunt` `JavaScript` `Jest` `jQuery` `Laravel` `Mocha` `MongoDB` `MySQL` `Node` `PhantomJS` `PHP` `PHPUnit` `Python` `React` `React Native` `Redux` `Resonance Audio` `RSpec` `Ruby` `socket.io` `Vagrant` `Web Audio` `Webpack` `Wordpress` 
+
+#### Quick Learner :running_man:
+I learned to code in 12 weeks at Makers Academy. At magneticNorth I have worked on a wide variety of projects that have involved completely new technologies to me, such as React, Redux, d3, web-audio, and always picked them up and contributed towards a high-quality product. I am confident in my abilities and getting stuck doesn’t phase me. I love a challenge.
+
+#### Analytic :thinking::thinking::thinking:
 My undergrad and postgrad studies in Mathematics and Philosophy have shaped the way I think and given me a strong ability to break problems down and to understand and use complex ideas. 
 
-#### Testing
-I spent almost 2 years working as a QA Analyst, manually writing and executing feature and regression tests on a monolithic system. This has given me a real commitment to well tested, well written code.
+#### Testing :white_check_mark::white_check_mark::x:
+I spent almost 2 years working as a QA Analyst, manually writing and executing feature and regression tests on a monolithic system. This has given me a real commitment to TDD, and also means I'm quite good at it.
 
-#### Teaching
-I love sharing my knowledge. I really love pair-programming. I'm becoming a regular tutor at [codebar](http://codebar.io). And I'm even writing my first ever tutorial on my blog. My next aim is to give a lightning talk.
+#### Teaching :books: :man_teacher:
+I love sharing my knowledge. I really love pair-programming. I'm a regular tutor at [codebar](http://codebar.io), and in the coming months will be teaching at [CodeFirst:Girls](http://www.codefirstgirls.org.uk/) and at [MCR Codes dev bootcamp](https://mcr.codes/)
 
-Projects
+Projects (that I can show you)
 ---
-#### [Happy Belly](http://www.github.com/harrim91/allergy_scanner_frontend)
-Mobile app that allows the user to select a diet profile (e.g. nut allergy, lactose intolerance), and then scan the barcode on a food product to see if they can eat it.
+#### [BFI Filmography](https://filmography.bfi.org.uk)
+I worked in a team of three developers that created a dashboard to allow users to explore and share the BFI's complete filomgraphy.
+The project uses React/Redux and d3 on the front end, and is powered by an Express/Mongo API. The contributions I'm most proud of are working to make the library of chart components as reusable and customizable as possible. This was my first major project at magneticNorth and I learned a tonne of things and it's probably the coolest thing I'll ever work on.
+
+#### [Guitar Tuner Alexa Skill](https://www.amazon.co.uk/Michael-Harrison-Guitar-Tuner/dp/B0768Z8LY9/)
+Amazon Alexa skill to help you tune your guitar. Won me a pair of socks.
+
+#### [flash-redux](https://github.com/harrim91/flash-redux)
+Redux middleware, actions and reducer for managing flash messages. It's not ground breaking but I wanted to make an open-source NPM package and I think it's well written.
+
+#### [Happy Belly](https://www.github.com/harrim91/allergy_scanner_frontend)
+Makers Academy final project. Mobile app that allows the user to select a diet profile (e.g. nut allergy, lactose intolerance), and then scan the barcode on a food product to see if they can eat it.
 
 Built in less than two weeks using Ionic/Angular. The app has a [decoupled rails-api backend](http://www.github.com/harrim91/allergy_scanner_backend)
-
-#### [Rails Cleaner](http://www.github.com/harrim91/rails_cleaner)
-Ruby Gem with command line executables that deletes all of those annoying unused auto-generated coffee/scss files from your rails projects.
-
-Pure Ruby, built in a week as a group project at Makers. Available on [RubyGems](https://rubygems.org/gems/rails_cleaner)
-
-#### [Instagram Clone](http://www.github.com/harrim91/instagram_challenge)
-Instagram Clone built using Rails in a weekend. The website is available on [Heroku](https://limitless-cliffs-63599.herokuapp.com/).
 
 Education
 ---
 
 #### Makers Academy (April-June 2016)
+
+I chose to go to Makers after being offered a job as a junior developer in my previous company, where I was working as a QA. I turned that role down as I felt my education and working standards wouldn't have been to the level I personally want to attain.
 
 - Software Craftsmanship & XP
 - OOP, TDD, SOLID, MVC, DDD
@@ -63,6 +72,8 @@ Education
 
 ## Experience
 
+**magneticNorth** (November 2016-Present) - *Junior Developer*
+
 **Intuitive** (Aug 2014-Mar 2016) - *QA Analyst*
 
 **Link Community Development** (Mar 2014-May 2014) - *Fundraising Assistant*
@@ -79,13 +90,3 @@ Education
 - Playing guitar
 - Going for long walks
 - Practicing yoga
-
-## Product Reviews from Pair Partners
-
-`I've never met anybody like Michael. He is unique. At first you just see like a pinprick, but when you get to know him he opens up and has so much more depth.`
-
-`Michael is very, very, very intelligent and is a problem solver. He is always willing to take the time to explain things and is a good teacher.`
-
-`He has crazy concentration. When working on a problem, he is so focused and driven until he achieves his goal.`
-
-`There is a romantic intensity to everything he does, from coding, to playing guitar, to talking about his girlfriend or wooden spoons.`
