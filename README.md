@@ -34,7 +34,7 @@ Projects (that I can show you)
 I worked in a team of three developers that created a dashboard to allow users to explore and share the BFI's complete filomgraphy.
 The project uses React/Redux and d3 on the front end, and is powered by an Express/Mongo API. The contributions I'm most proud of are working to make the library of chart components as reusable and customizable as possible. This was my first major project at magneticNorth and I learned a tonne of things and it's probably the coolest thing I'll ever work on.
 
-#### [Guitar Tuner Alexa Skill](https://www.amazon.co.uk/Michael-Harrison-Guitar-Tuner/dp/B0768Z8LY9/)
+#### [Guitar Tuner Alexa Skill](https://github.com/harrim91/alexa-guitar-tuner)
 Amazon Alexa skill to help you tune your guitar. Won me a pair of socks.
 
 #### [flash-redux](https://github.com/harrim91/flash-redux)
